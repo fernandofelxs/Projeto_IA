@@ -1,5 +1,5 @@
 # Download do dataset do Kaggle
-# Após o download, mover a pasta do dataset para o diretório root do projeto
+# Após o download, mover a pasta /garbage-dataset/ para o diretório root do projeto
 
 import kagglehub
 
