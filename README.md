@@ -3,6 +3,9 @@ Esse projeto consiste na análise de diferentes algoritmos de aprendizado de má
 imagens de resíduos de lixo, visando auxiliar os processos de reciclágem do lixo. Assim, o projeto
 contribuirá para a ODS 11, no quesito do desenvolvimento sustentável das cidades. <br>
 
+## Membros
+Nome: Fernando Felix da Silva, RA: 168848
+
 ## Dataset
 Foi utilizado o seguinte dataset para a classificação e reciclágem do lixo: https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2?resource=download <br>
 
