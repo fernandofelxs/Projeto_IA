@@ -21,6 +21,3 @@ Plástico: 1984
 ```
 
 O download do dataset para a utilização dos algoritmos pode ser feito com o arquivo /scripts/kaggle.py
-
-## Algoritmos
-Foram utilizados os algoritmos KNN, CNN, SVM e YOLO 
