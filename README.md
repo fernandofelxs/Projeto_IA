@@ -5,6 +5,7 @@ contribuirá para a ODS 11, no quesito do desenvolvimento sustentável das cidad
 
 ## Membros
 Nome: Fernando Felix da Silva, RA: 168848
+Nome: Luis Felipe Gomes Pinto, RA: 168979
 
 ## Dataset
 Foi utilizado o seguinte dataset para a classificação e reciclágem do lixo: https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2?resource=download <br>
