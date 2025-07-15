@@ -23,5 +23,3 @@ Sapatos: 1977
 Roupas: 5327
 Plástico: 1984
 ```
-
-O download do dataset para a utilização dos algoritmos pode ser feito com o arquivo /scripts/kaggle.py
